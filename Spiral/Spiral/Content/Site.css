@@ -1,0 +1,434 @@
+﻿.ThirdStep>input
+{
+    width:60%;
+    height:10%;
+    margin:1%;
+}
+
+.FilePage>td>button
+{
+    float:right;
+}
+.FilePage>td>input
+{
+    float:right;
+}
+.Circle
+{
+    border-radius:90px;
+    height:25px;
+    width:25px;
+}
+.Orange
+{
+    background-color:orange;
+}
+.Green
+{
+    background-color:green;
+}
+.Blue
+{
+    background-color:blue;
+}
+.Red
+{
+    background-color:red;
+}
+#ContextMenu>ul>li {
+    list-style-type: none; /* Убираем маркеры у списка */
+   }
+#ContextMenu>ul>li>div
+{
+    display:inline-block;
+}
+#ContextMenu{
+    position:absolute;
+    text-align:left;
+    background: white;
+    z-index:5;
+    border: 2px solid grey;
+    display:none;
+}
+.SecondStep
+{
+    text-align:center;
+    position:relative;
+}
+.SecondStepFirstBlock
+{
+    position:relative;
+    height:10%;
+    border: 1px solid red;
+}
+.SecondStepFirstBlock>div
+{
+    position:relative;
+    display:inline-block;
+    /*border: 1px solid red;*/
+    width:20%;
+    height:100%;
+}
+.SecondStepFirstBlock>div>input
+{
+    width:100%;
+    margin:1%;
+}
+input::placeholder {
+  /*color: red;*/
+}
+.Asks
+{
+    border: 1px solid red;
+   width:25%;
+   margin:1%;
+   height:60%;
+}
+.Hidden
+{
+    display: none;
+}
+.NewCourse
+{
+    text-align:center;
+    border: 1px solid grey;
+    margin: 20px;
+    padding: 35px;
+    position:relative;
+}
+.Selected
+{
+    text-align:center;
+    border: 1px solid grey;
+    margin: 20px;
+    padding: 35px;
+    background-color:red;
+    position:relative;
+}
+
+
+.NewCourse>input{
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+
+.circleOrange
+{
+    position:absolute;
+  background-color: orange;
+  border-radius: 30px;
+  width:30px;
+  height:30px;
+    right:0px;
+    bottom:0px;
+}
+.circleBlue
+{
+    position:absolute;
+  background-color: blue;
+  border-radius: 30px;
+  width:30px;
+  height:30px;
+    right:0px;
+    bottom:0px;
+}
+.circleGreen
+{
+    position:absolute;
+  background-color: green;
+  border-radius: 30px;
+  width:30px;
+  height:30px;
+    right:0px;
+    bottom:0px;
+}
+.circleRed
+{
+    position:absolute;
+  background-color: red;
+  border-radius: 30px;
+  width:30px;
+  height:30px;
+    right:0px;
+    bottom:0px;
+}
+.Cours{
+    position:relative;
+    width:20%;
+    height:30%;
+    border: 2px solid white;
+    background-color: #F6F8F9;
+    text-align:center;
+    display:inline-block;
+    margin:1%;
+    border: 2px solid #DEE3E8;
+}
+.Cours>img{
+    border: 5px solid white;
+    outline: 1px solid #E5E6E7;
+    background-color:#C7C7C7;
+    position:relative;
+}
+.Cours>.Del
+{
+    position:absolute;
+    display:none;
+    right:0;
+}
+.Cours:hover .Del{
+    display:block;
+}
+.Cours>.Edit
+{
+    position:absolute;
+    display:none;
+}
+.Cours:hover .Edit{
+    display:block;
+}
+
+
+
+
+.dataList>.Avatar{
+  height:12%;
+    float:left;
+}
+
+.Decoration{
+    width:30%;
+    float:right;
+    position:relative;
+}
+.dataList{
+    padding-bottom:1%;
+    padding-top:1%;
+      border-bottom: 2px solid #E3E3E3;
+}
+.dataList>p{
+    width:50%;
+}
+.dataList>button{
+    float:right;
+}
+.Auentification{
+    height:100%;
+    padding-top: 4%;
+    background-image:url(../Scripts/FrontEnd/Layout/background.png);
+}
+.Auentification>img{
+    border-radius: 3px;
+    padding:0;
+    padding-bottom:1%;
+}
+.Auentification>form{
+    background-color:white;
+    text-align:center;
+    border-radius: 3px;
+}
+.Auentification>form>input[type="text"], input[type="password"]
+{
+    margin-top:5%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    
+    color: grey;
+    width: 80%;
+    border:0;
+    border-bottom: 2px solid #E3E3E3;
+    outline: 0;
+}
+.Auentification>form>input[type="submit"]
+{
+    border:0;
+    margin:4%;
+    color: white;
+    width: 60%;
+    background-color: #1D7B97;
+    height: 40px;
+    border-radius: 3px;
+}
+.Auentification>form>a
+{
+    margin-bottom:4%;
+    font-size: 100%;
+
+}
+
+.Main{
+    /*text-align:center;*/
+    background-image:url(../Scripts/FrontEnd/Layout/background.png);
+    height:100%;
+    /*width:100%;*/
+}
+.Main>div
+{
+    padding: 0;
+    background-color:#EEF1F4;
+    height:90%;
+}
+
+.HorizontalNavbar
+{
+    padding: 0;
+    height:10%;
+    background-color:#4CE4AC;
+  
+}
+.HorizontalNavbar>table>tr>td
+{
+    padding-top: 6%;
+    font-size: 100%;
+    color:white;
+}
+
+.VerticalNavbar
+{
+    padding: 0;
+    height:90%;
+    background-color:#2F3B4C;
+}
+
+
+.VerticalNavbar>img
+{
+    padding: 0;
+    left:0;
+    position:absolute;
+    z-index:1;
+    height:100%;
+}
+.VerticalNavbar>ul
+{
+    text-align: center;
+    padding: 0;
+    left:0;
+    color:white;
+    width:100%;
+}
+.VerticalNavbar>ul>li{
+    height:10%;
+    font-size: 60%;
+    list-style-type: none;
+    z-index:3;
+    padding:0;
+    margin:0;
+    text-align: center;
+}
+
+.VerticalNavbar>ul>li>p{
+    margin-top: 80%;
+}
+.VerticalNavbar>ul>li>p:hover
+{
+    background-color:red;
+}
+#css-sprite-007{top:5%;width:50px;height:40px;background:url('../Scripts/FrontEnd/Layout/sprite-new.svg') 0 239px;position:absolute;}
+#css-sprite-008{top:17%;width:50px;height:40px;background:url('../Scripts/FrontEnd/Layout/sprite-new.svg') 0 239px;position:absolute;}
+#css-sprite-006{top:29%;width:56px;height:40px;background:url('../Scripts/FrontEnd/Layout/sprite-new.svg') 0 199px;position:absolute;}
+
+#css-sprite-003{top:41%;width:50px;height:40px;background:url('../Scripts/FrontEnd/Layout/sprite-new.svg') 0 78px;position:absolute;}
+#css-sprite-004{top:53%;width:50px;height:40px;background:url('../Scripts/FrontEnd/Layout/sprite-new.svg') 0 119px;position:absolute;}
+#css-sprite-005{top:65%;width:50px;height:40px;background:url('../Scripts/FrontEnd/Layout/sprite-new.svg') 0 159px;position:absolute;}
+#css-sprite-002{top:77%;width:50px;height:40px;background:url('../Scripts/FrontEnd/Layout/sprite-new.svg') 0 40px;position:absolute;}
+#css-sprite-001{top:89%;width:50px;height:40px;background:url('../Scripts/FrontEnd/Layout/sprite-new.svg') 0 0;position:absolute;}
+
+.tabs {
+	/*min-width: 320px;
+	max-width: 800px;*/
+
+	padding: 0px;
+	margin: 0 auto;
+}
+.tabs>button {
+    float:right;
+    margin-top:2%;
+    margin-right:2%;
+}
+/* Стили секций с содержанием */
+.tabs>section {
+    overflow-y:scroll; 
+    height:77.5%;
+
+    position:relative;
+	margin-right: 2%;
+    left:1%;
+
+	/*font-weight: 600;*/
+	display: none;
+	padding: 15px;
+	background: #fff;
+	border: 1px solid #ddd;
+}
+.tabs>section>p {
+	margin: 0 0 5px;
+	line-height: 1.5;
+	color: #383838;
+	/* прикрутим анимацию */
+	-webkit-animation-duration: 1s;
+	animation-duration: 1s;
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+	-webkit-animation-name: fadeIn;
+	animation-name: fadeIn;
+}
+/* Описываем анимацию свойства opacity */
+ 
+@-webkit-keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+/* Прячем чекбоксы */
+.tabs>input {
+	display: none;
+	position: absolute;
+}
+/* Стили переключателей вкладок (табов) */
+.tabs>label {
+    position:relative;
+    left: 1%;
+	display: inline-block;
+	margin: 1% 0 -1px;
+	padding: 15px 25px;
+	/*font-weight: 600;*/
+	text-align: center;
+	color: #aaa;
+	border: 0px solid #ddd;
+	border-width: 1px 1px 1px 1px;
+	background: #f1f1f1;
+	border-radius: 3px 3px 0 0;
+}
+
+/* Изменения стиля переключателей вкладок при наведении */
+ 
+.tabs>label:hover {
+	color: #888;
+	cursor: pointer;
+}
+/* Стили для активной вкладки */
+.tabs>input:checked+label {
+	color: #555;
+	border-top: 3px solid #4F9DCE;
+	border-bottom: 1px solid #fff;
+	background: #fff;
+}
+/* Активация секций с помощью псевдокласса :checked */
+#tab1:checked~#content-tab1, #tab2:checked~#content-tab2, #tab3:checked~#content-tab3, #tab4:checked~#content-tab4 {
+	display: block;
+}
+
+
+

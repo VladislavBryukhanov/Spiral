@@ -1,0 +1,870 @@
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Spiral.dll.config
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Spiral.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Spiral.pdb
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Antlr3.Runtime.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.Google.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Net.Http.Formatting.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Http.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Http.Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Http.WebHost.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Optimization.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.WebPages.Deployment.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.WebPages.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.WebPages.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\WebGrease.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Net.Http.Formatting.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Http.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Http.WebHost.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Optimization.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.WebPages.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.WebPages.Deployment.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.WebPages.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Antlr3.Runtime.pdb
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.Google.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\System.Web.Http.Owin.xml
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\System.Web.Helpers.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\System.Web.Http.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\System.Web.Mvc.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\System.Web.Optimization.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\System.Web.Razor.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\System.Web.WebPages.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\EntityFramework.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\EntityFramework.SqlServer.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\Microsoft.Owin.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\bin\ru\System.Web.Http.Owin.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\obj\Debug\Spiral.dll
+c:\users\user\documents\visual studio 2015\Projects\Spiral\Spiral\obj\Debug\Spiral.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\Npgsql.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\Npgsql.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\EntityFramework6.Npgsql.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\EntityFramework6.Npgsql.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\ClearScript.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\JSPool.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\MsieJavaScriptEngine.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\React.Core.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\React.Web.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\React.Web.Mvc4.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\VroomJs.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\WebActivatorEx.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Core.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Msie.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\JavaScriptEngineSwitcher.V8.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\JSPool.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\MsieJavaScriptEngine.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\React.Core.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\React.Web.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\React.Web.Mvc4.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\VroomJs.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Spiral\Spiral\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ApplicationInsights.config
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\roslyn\csc.exe
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\roslyn\vbc.exe
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\roslyn\VBCSCompiler.exe
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Spiral.dll.config
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Spiral.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Spiral.pdb
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Antlr3.Runtime.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ClearScript.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\EntityFramework.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\EntityFramework.SqlServer.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\EntityFramework6.Npgsql.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\JSPool.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AI.Web.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.ApplicationInsights.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\MsieJavaScriptEngine.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Newtonsoft.Json.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Npgsql.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Owin.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\React.Core.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\React.Web.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\React.Web.Mvc4.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Net.Http.Formatting.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Helpers.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Http.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Http.Owin.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Http.WebHost.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Mvc.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Optimization.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Razor.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.WebPages.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.WebPages.Razor.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\VroomJs.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\WebActivatorEx.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\WebGrease.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\EntityFramework6.Npgsql.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Core.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Msie.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.V8.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\JSPool.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AI.Web.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.ApplicationInsights.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\MsieJavaScriptEngine.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Newtonsoft.Json.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Npgsql.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\React.Core.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\React.Web.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\React.Web.Mvc4.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Net.Http.Formatting.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Helpers.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Http.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Http.WebHost.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Mvc.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Optimization.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Razor.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.WebPages.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.WebPages.Razor.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\VroomJs.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Antlr3.Runtime.pdb
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\EntityFramework.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\EntityFramework.SqlServer.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\System.Web.Http.Owin.xml
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\System.Web.Http.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\System.Web.Razor.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\EntityFramework.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\bin\ru\System.Web.Http.Owin.resources.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\obj\Debug\Spiral.dll
+C:\Users\VLAD\Desktop\Spiral\Spiral\obj\Debug\Spiral.pdb
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ApplicationInsights.config
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Spiral.dll.config
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Spiral.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Spiral.pdb
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ClearScript.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\EntityFramework.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\EntityFramework6.Npgsql.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\JSPool.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\MsieJavaScriptEngine.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Npgsql.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Owin.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\React.Core.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\React.Web.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\React.Web.Mvc4.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Http.Owin.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\VroomJs.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\WebActivatorEx.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\WebGrease.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\EntityFramework6.Npgsql.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Core.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Msie.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\JavaScriptEngineSwitcher.V8.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\JSPool.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\MsieJavaScriptEngine.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Npgsql.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\React.Core.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\React.Web.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\React.Web.Mvc4.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\VroomJs.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\EntityFramework.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\System.Web.Http.Owin.xml
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\System.Web.Http.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\EntityFramework.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\bin\ru\System.Web.Http.Owin.resources.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\obj\Debug\Spiral.dll
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\obj\Debug\Spiral.pdb
+C:\Users\user\Desktop\Плохая авторизация\Spiral\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Spiral\Spiral\bin\ApplicationInsights.config
+C:\Users\user\Desktop\Spiral\Spiral\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Spiral\Spiral\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Spiral\Spiral\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Spiral\Spiral\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Spiral\Spiral\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Spiral\Spiral\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Spiral\Spiral\bin\Spiral.dll.config
+C:\Users\user\Desktop\Spiral\Spiral\bin\Spiral.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Spiral.pdb
+C:\Users\user\Desktop\Spiral\Spiral\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ClearScript.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\EntityFramework.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\EntityFramework6.Npgsql.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\JSPool.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\MsieJavaScriptEngine.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Npgsql.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\Owin.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\React.Core.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\React.Web.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\React.Web.Mvc4.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Http.Owin.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\VroomJs.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\WebActivatorEx.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\WebGrease.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\EntityFramework6.Npgsql.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Core.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Msie.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\JavaScriptEngineSwitcher.V8.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\JSPool.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\MsieJavaScriptEngine.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Npgsql.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\React.Core.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\React.Web.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\React.Web.Mvc4.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\VroomJs.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Spiral\Spiral\bin\EntityFramework.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\System.Web.Http.Owin.xml
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\System.Web.Http.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\EntityFramework.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\bin\ru\System.Web.Http.Owin.resources.dll
+C:\Users\user\Desktop\Spiral\Spiral\obj\Debug\Spiral.dll
+C:\Users\user\Desktop\Spiral\Spiral\obj\Debug\Spiral.pdb
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ApplicationInsights.config
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\roslyn\csc.exe
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Spiral.dll.config
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Spiral.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Spiral.pdb
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ClearScript.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\EntityFramework.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\EntityFramework6.Npgsql.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\JSPool.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\MsieJavaScriptEngine.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Npgsql.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Owin.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\React.Core.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\React.Web.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\React.Web.Mvc4.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Http.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Http.Owin.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\VroomJs.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\WebActivatorEx.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\WebGrease.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\EntityFramework6.Npgsql.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\JavaScriptEngineSwitcher.Core.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\JavaScriptEngineSwitcher.Msie.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\JavaScriptEngineSwitcher.V8.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\JSPool.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\MsieJavaScriptEngine.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Npgsql.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\React.Core.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\React.Web.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\React.Web.Mvc4.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Http.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\VroomJs.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\EntityFramework.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\System.Web.Http.Owin.xml
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\System.Web.Http.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\System.Web.Razor.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\EntityFramework.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\bin\ru\System.Web.Http.Owin.resources.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\obj\Debug\Spiral.dll
+C:\Users\user\Desktop\Spiral - копия\Spiral\obj\Debug\Spiral.pdb
+C:\Users\user\Desktop\Spiral - копия\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Spiral\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ApplicationInsights.config
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\roslyn\csc.exe
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\roslyn\vbc.exe
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\roslyn\VBCSCompiler.exe
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Spiral.dll.config
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Spiral.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Spiral.pdb
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Antlr3.Runtime.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ClearScript.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\EntityFramework.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\EntityFramework.SqlServer.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\EntityFramework6.Npgsql.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\JavaScriptEngineSwitcher.ChakraCore.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Core.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Msie.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\JavaScriptEngineSwitcher.V8.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\JSPool.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AI.Web.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.ApplicationInsights.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\MsieJavaScriptEngine.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Newtonsoft.Json.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Npgsql.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Owin.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\React.Core.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\React.Web.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\React.Web.Mvc4.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Net.Http.Formatting.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Helpers.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Http.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Http.Owin.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Http.WebHost.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Mvc.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Optimization.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Razor.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.WebPages.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.WebPages.Razor.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\VroomJs.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\WebActivatorEx.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\WebGrease.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\EntityFramework6.Npgsql.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\JavaScriptEngineSwitcher.ChakraCore.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Core.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\JavaScriptEngineSwitcher.Msie.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\JavaScriptEngineSwitcher.V8.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\JSPool.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AI.Web.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.ApplicationInsights.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\MsieJavaScriptEngine.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Newtonsoft.Json.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Npgsql.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\React.Core.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\React.Web.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\React.Web.Mvc4.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Net.Http.Formatting.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Helpers.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Http.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Http.WebHost.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Mvc.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Optimization.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Razor.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.WebPages.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.WebPages.Razor.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\VroomJs.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Antlr3.Runtime.pdb
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\EntityFramework.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\EntityFramework.SqlServer.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\System.Web.Http.Owin.xml
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.ChakraCore.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru-ru\JavaScriptEngineSwitcher.V8.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru-ru\MsieJavaScriptEngine.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\System.Web.Http.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\System.Web.Razor.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\EntityFramework.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\bin\ru\System.Web.Http.Owin.resources.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\obj\Debug\Spiral.dll
+C:\Users\VLAD\Downloads\spiral2\Spiral\Spiral\obj\Debug\Spiral.pdb
+C:\Users\VLAD\Desktop\Spiral\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache

@@ -1,0 +1,48 @@
+﻿@*<div class=" col-xs-12 col-sm-6 col-md-6 col-md-offset-3" id="Auentification">
+
+    <img src="D:\Desktop\Picture\look.com.ua-9486.jpg" />
+    <form action="~/Controllers/HomeController/Auentific" method="post">
+
+        <input type="email" name="Email" value="" placeholder="Username or Email" id="AuentForm" class="form-control" />
+        <input type="password" name="Password" value="" placeholder="Password" id="AuentForm" class="form-control " />
+        <select id="AuentForm" class="form-control  ">
+            <option value="Teacher">Teacher</option>
+            <option value="Manager">Manager</option>
+            <option value="Admin">Admin</option>
+        </select>
+        <input type="button" name="name" value="Sing In" class="btn btn-primary btn-lg col-xs-12 col-sm-12 col-md-4 col-md-offset-4" />
+    </form>
+    <a href="#" class="col-xs-12 col-md-4 col-md-offset-2">Forgot Password</a>
+    <a href="#" class="col-xs-12 col-md-4">Create account</a>
+
+</div>*@
+
+
+@{
+    Layout = null;
+}
+<html>
+<head>
+    <title>Hello React</title>
+</head>
+<body>
+    <div id="content"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.2/react.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.3.2/react-dom.js"></script>
+    <script src='@Url.Content("~/Scripts/FrontEnd/Auentification.jsx")'></script>
+    <script src='@Url.Content("~/Scripts/FrontEnd/SpiralUser.jsx")'></script>
+    <script src='@Url.Content("~/Scripts/FrontEnd/SpiralUserForm.jsx")'></script>
+    <script src='@Url.Content("~/Scripts/FrontEnd/SpiralUserEditForm.jsx")'></script>
+    <script src='@Url.Content("~/Scripts/FrontEnd/SpiralUsersList.jsx")'></script>
+
+    <script src='@Url.Content("~/Scripts/FrontEnd/NewCourse.jsx")'></script>
+    <script src='@Url.Content("~/Scripts/FrontEnd/SecondStep.jsx")'></script>
+    <script src='@Url.Content("~/Scripts/FrontEnd/ThirdStep.jsx")'></script>
+    <script src='@Url.Content("~/Scripts/FrontEnd/FourthStep.jsx")'></script>
+    <script src='@Url.Content("~/Scripts/FrontEnd/courses.jsx")'></script>
+
+    <link href="~/Content/Site.css" rel="stylesheet" >
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</body>
+</html>

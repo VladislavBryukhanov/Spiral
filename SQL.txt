@@ -1,0 +1,27 @@
+    use Spiral;
+    create table SpiralUser( ID Serial,Email varchar(50), Passwrd varchar(50), FirstName varchar(30), LastName varchar(30), RoleOfUser integer);
+    drop table SpiralUser
+    insert into SpiralUser (Email, Passwrd, FirstName, LastName, RoleOfUser) values ('Ivan@gmail.com', '1234', 'Ivan', 'Ivanov', 1);
+    insert into SpiralUser (Email, Passwrd, FirstName, LastName, RoleOfUser) values ('Petr@gmail.com', '4321', 'Petr', 'Petrov', 2);
+    insert into SpiralUser (Email, Passwrd, FirstName, LastName, RoleOfUser) values ('Alex@gmail.com', 'Admin', 'Alex', 'Alexandrov', 3);
+
+    select *
+    from SpiralUser
+
+
+
+
+
+
+
+
+
+
+INSERT INTO dbo."SpiralUsers"( "Email", "Passwrd", "FirstName", "LastName", "RoleOfUser")
+values ('Ivan@gmail.com', '1234', 'Ivan', 'Ivanov', 1);
+
+INSERT INTO dbo."SpiralUsers"( "Email", "Passwrd", "FirstName", "LastName", "RoleOfUser") 
+values ('Petr@gmail.com', '4321', 'Petr', 'Petrov', 2);
+
+INSERT INTO dbo."SpiralUsers"( "Email", "Passwrd", "FirstName", "LastName", "RoleOfUser") 
+values ('Alex@gmail.com', 'Admin', 'Alex', 'Alexandrov', 3);
